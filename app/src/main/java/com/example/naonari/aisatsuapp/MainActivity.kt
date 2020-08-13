@@ -26,5 +26,6 @@ class MainActivity : AppCompatActivity() {
                     else{text1.text="こんばんは"}
             },
             13,0,true)
-        timePickerDialog.show()}
+        timePickerDialog.show()
+    }
 }
